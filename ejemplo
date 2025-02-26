@@ -1,0 +1,4 @@
+hola mundo
+git config --global user.name "Fernando"
+git config --global user.email "fbchoqe@gmail.com"
+
